@@ -1,0 +1,27 @@
+.random-meal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.random-meal h1 {
+  text-align: center;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.random_button {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #237905;
+  color: white;
+  font-weight: 700;
+}
+
+.random_button:hover {
+  background-color: #406343;
+}
